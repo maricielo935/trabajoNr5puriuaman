@@ -1,0 +1,97 @@
+#Verificador 1:
+nota1=10
+nota2=19
+nota3=7
+nota4=13
+promedio=(nota1+nota2+nota3+nota4)/4
+print(promedio)
+
+alumno_aprobado=(promedio>=11)
+print("El alumno aprobo el curso ", alumno_aprobado)
+
+#Verificador 2:
+angulo1=90
+angulo2=30
+angulo3=70
+suma_de_los_tres_angulos=190
+print(suma_de_los_tres_angulos)
+
+suma_de_angulos_internos_de_un_triangulo=(suma_de_los_tres_angulos==180)
+print("La suma de angulos es igual a la suma de angulos internos de un triangulo ", suma_de_angulos_internos_de_un_triangulo)
+
+#Verificador 3:
+largo=80
+ancho=50
+area=(largo*ancho)
+print(area)
+
+area_para_sembrar=(area<5000)
+print("Area adecuada para sembrar ", area_para_sembrar)
+
+#Verificador 4:
+Sarai=56
+Jhossely=28
+Maricielo=88
+dinero_Maricielo_y_Sarai=172
+print(dinero_Maricielo_y_Sarai)
+
+dinero_Jhossely=(dinero_Maricielo_y_Sarai<Jhossely)
+print("Jhossely tiene mas dinero que Maricielo y Sarai juntas", dinero_Jhossely)
+
+#Veirficadoor 5:
+cantidad=500
+precio=2.5
+costo=cantidad*precio
+print(costo)
+
+comprador_complusivo=(costo>2000)
+print("Gasto demasiado dinero ", comprador_complusivo)
+
+#Verificador 6:
+curso1=13
+curso2=9
+curso3=17
+curso4=15
+cursos_aprobados=3
+cursos_desaprobados=1
+print(cursos_desaprobados)
+
+aprobar_año=(cursos_desaprobados<2)
+print("La alumna aprobo el año" , aprobar_año)
+
+#Verificador 7:
+π=3.14
+radio=10
+area= (π)*(radio**2)
+print(area)
+
+semejanza_de_areas=(area==314.0)
+print("El circulo A tiene la misma area que el circulo B" , semejanza_de_areas)
+
+#Verificador 8:
+nota1=11
+nota2=8
+nota3=19
+promedio=(nota1+nota2+nota3)/3
+print(promedio)
+
+alumno_desaprobado=(promedio<11)
+print("El alumno desaprobo el curso ", alumno_desaprobado)
+
+#Verificador 9:
+base=15
+altura=20
+area=(base*altura)
+print(area)
+
+area_de_cometa=(area>300)
+print("Area de papel adecuado para armar un cometa ", area_de_cometa)
+
+#VeirficadoR 10:
+cantidad=350
+precio=4.5
+costo=cantidad*precio
+print(costo)
+
+gasto_total=(costo>769)
+print("Gasto demasiado dinero ", gasto_total)
