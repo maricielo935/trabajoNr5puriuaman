@@ -1,0 +1,23 @@
+#BOLETA N°2:
+#INPUT
+cliente=input("Ingrese el nombre del cliente:")
+kg=int(input("Ingrese Nr Kg de fresa:"))
+pu=float(input("Ingresse precio unitario:"))
+
+#PROCESSING
+total=(pu*kg)
+
+#VERIFICADOR
+comprador_compulsivo=(total>230)
+
+#OUTPUT
+print("##########################")
+print("# BOLETA DE VENTA #")
+print("##########################")
+print("#")
+print("# Cliente:  ", cliente)
+print("#Item    :  ", kg, " kg fresa")
+print("#P.U.    :  s/.", pu)
+print("Total    :  s/.", total)
+print("########################")
+print("Gasto mas de lo debido?:", comprador_compulsivo)
