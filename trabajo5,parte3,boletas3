@@ -1,0 +1,23 @@
+#BOLETA N°3:
+#INPUT
+cliente=input("Ingrese el nombre del cliente:")
+Nr_de_botellas_de_yogurt=int(input("Ingrese Nr de botellas de yogurt:"))
+pu=float(input("Ingrese el precio unitario:"))
+
+#PROCESSING
+total=(pu*Nr_de_botellas_de_yogurt)
+
+#VERIFICADOR
+Gasto_del_cliente=(total<100)
+
+#OUTPUT
+print("############################")
+print("#   BOLETA   DE    VENTA   #")
+print("############################")
+print("#")
+print("# Cliente:  ", cliente)
+print("#Item    :  ", Nr_de_botellas_de_yogurt, " Botellas de yogurt")
+print("#P.U.    :  s/.", pu)
+print("Total    :  s/.", total)
+print("########################")
+print("El cliente gasto menos de s/100:", Gasto_del_cliente)
