@@ -1,0 +1,242 @@
+#CONVERSOR 1.1:
+#Convertir la cadena 188 en flotante
+x="188"
+a=float(x)
+print(a, type(a))
+
+#CONVERSOR 1.2:
+#Convertir la cadena 3012 en flotante
+x="3012"
+a=float(x)
+print(a, type(a))
+
+#CONVERSOR 1.3:
+#Convertir la cadena 2607 en flotante
+x="2607"
+a=float(x)
+print(a, type(a))
+
+#CONVERSOR 1.4:
+#Convertir la variable real  35.09 en flotante
+x="35.09"
+a=float(x)
+print(a, type(a))
+
+#CONVERSOR 1.5:
+#Convertir la variable real  11.04 en flotante
+x="11.04"
+a=float(x)
+print(a, type(a))
+
+#CONVERSOR 1.6:
+#Convertir la variable real  46.01 en flotante
+x="46.01"
+a=float(x)
+print(a, type(a))
+
+#CONVERSOR 1.7:
+#Convertir la variable booleana  12<34 en flotante
+x=(12<34)
+a=float(x)
+print(a, type(a))
+
+#CONVERSOR 1.8:
+#Convertir la variable booleana  5==5 en flotante
+x=(5==5)
+a=float(x)
+print(a, type(a))
+
+#CONVERSOR 1.9:
+#Cnvertir el entero 78 a flotante
+x=78
+a=float(x)
+print(a, type(a))
+
+#CONVERSOR 1.10:
+#Convertir el entero 25 a flotante
+x=25
+a=float(x)
+print(a, type(a))
+
+
+#CONVERSOR 2.1:
+#Convertir la cadena 234 a entero
+y="234"
+b=int(y)
+print(b, type(b))
+
+#CONVERSOR 2.2:
+#Convertir la cadena 7242 a entero
+y="7242"
+b=int(y)
+print(b, type(b))
+
+#CONVERSOR 2.3:
+#Convertir la cadena 909 a entero
+y="909"
+b=int(y)
+print(b, type(b))
+
+#CONVERSOR 2.4:
+#Convertir la variable real 34.09 a entero
+y=34.09
+b=int(y)
+print(b, type(b))
+
+#CONVERSOR 2.5:
+#Convertir la variable real 87.4 a entero
+y=87.4
+b=int(y)
+print(b, type(b))
+
+#CONVERSOR 2.6:
+#Convertir la variable real 8.05 a entero
+y=8.05
+b=int(y)
+print(b, type(b))
+
+#CONVERSOR 2.7:
+#Convertir la variable booleana 56!=23 a entero
+y=(56!=23)
+b=int(y)
+print(b, type(b))
+
+#CONVERSOR 2.8:
+#Convertir la variable booleana 24<89 a entero
+y=(24<89)
+b=int(y)
+print(b, type(b))
+
+#CONVERSOR 2.9:
+#Convertir la variable booleana 31>=18 a entero
+y=(31>=18)
+b=int(y)
+print(b, type(b))
+
+#CONVERSOR 2.10:
+#Convertir la variable flotante 45.01 a entero
+y=45.01
+b=int(y)
+print(b, type(b))
+
+
+#CONVERSOR 3.1:
+#Convertir la cadena 580 a booleano
+z="580"
+c=bool(z)
+print(c, type(c))
+
+#CONVERSOR 3.2:
+#Convertir la cadena 2476 a booleano
+z="2476"
+c=bool(z)
+print(c, type(c))
+
+#CONVERSOR 3.3:
+#Convertir la cadena 91 a booleano
+z="91"
+c=bool(z)
+print(c, type(c))
+
+#CONVERSOR 3.4:
+#Convertir la cadena 782
+z="782"
+c=bool(z)
+print(c, type(c))
+
+#CONVERSOR 3.5:
+#Convertir la cadena 108 a booleano
+z="108"
+c=bool(z)
+print(c, type(c))
+
+#CONVERSOR 3.6:
+#Convertir la variable entera 5 a booleano
+z=5
+c=bool(z)
+print(c, type(c))
+
+#CONVERSOR 3.7:
+#Convertir la variable entera 14 a booleano
+z=14
+c=bool(z)
+print(c, type(c))
+
+#CONVERSOR 3.8:
+#Convertir la variable flotante 34.2 a booleano
+z=34.2
+c=bool(z)
+print(c, type(c))
+
+#CONVERSOR 3.9:
+#Convertir la variable flotante 920.13 a booleano
+z=920.13
+c=bool(z)
+print(c, type(c))
+
+#CONVERSOR 3.10:
+#Convertir la vaariable flotante 5.5 a booleano
+z=5.5
+c=bool(z)
+print(c, type(c))
+
+
+#CONVERSOR 4.1:
+#Convertir la variable entera -45 a cadena
+w=-45
+d=str(w)
+print(d, type(d))
+
+#CONVERSOR 4.2:
+#Convertir  la variable entera 389 a cadena
+w=389
+d=str(w)
+print(d, type(d))
+
+#CONVERSOR 4.3:
+#Convertir la variable entera 71 a cadena
+w=71
+d=str(w)
+print(d, type(d))
+
+#CONVERSOR 4.4:
+#Convertir la variable real 56.8 a cadena
+w=56.8
+d=str(w)
+print(d, type(d))
+
+#CONVERSOR 4.5:
+#Convertir la variable real 900.2 a cadena
+w=900.2
+d=str(w)
+print(d, type(d))
+
+#CONVERSOR 4.6:
+#Convertir la variable real 7.9 a cadena
+w=7.9
+d=str(w)
+print(d, type(d))
+
+#CONVERSOR 4.7:
+#Convertir la cadena "Maricielo" a cadena
+w="Maricielo"
+d=str(w)
+print(d, type(d))
+
+#CONVERSOR 4.8:
+#Convertir la cadena "Purihuaman" a cadena
+w="Purihuaman"
+d=str(w)
+print(d, type(d))
+
+#CONVERSOR 4.9:
+#Convertir la cadena "Llonto" a cadena
+w="Llonto"
+d=str(w)
+print(d, type(d))
+
+#CONVERSOR 4.10:
+#Convertir la cadena "Ciclo_1"
+w="Ciclo_1"
+d=str(w)
+print(d, type(d))
